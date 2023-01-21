@@ -1,0 +1,17 @@
+# Personnel pattern
+
+# {
+#     "surname": "surname",
+#     "post_id": 1,
+#     "name": "name",
+#     "patronymic": "patronymic",
+#     "date_birth": "2004-05-14"
+# }
+
+# Zoo Pattern
+
+# {
+#     "title": "title",
+#     "phone": "7-9xx-xxx-xx-xx",
+#     "city": "city"
+# }
